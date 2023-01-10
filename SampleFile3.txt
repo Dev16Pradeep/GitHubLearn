@@ -1,1 +1,2 @@
-sample changes`
+sample changes
+Editing the file for newBranch2
