@@ -1,1 +1,30 @@
-This is a sample file
+gh
+this is a sample file.text file
+changed
+ 
+
+
+
+ wq
+ Quit
+ clear
+aaa 
+
+
+
+wq
+Quit
+clear
+
+ 
+
+
+
+ wq
+ Quit
+ clear
+
+aa
+
+
+
